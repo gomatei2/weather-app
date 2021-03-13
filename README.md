@@ -23,6 +23,7 @@
 * 📝 Get weather card and other infos.
 * 🔍 Search for new cities around the world.
 * 💾 Control city cards to browser storage.
+* 💻 Responsive app.
 
 # :rocket: Used Techs
 
