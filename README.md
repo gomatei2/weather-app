@@ -1,46 +1,68 @@
-# Getting Started with Create React App
+# Weather-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+<p align="center"><img src=".github/web.png?raw=true"/></p>
+<p align="center"><img src=".github/tablet.png?raw=true"/></p>
+<p align="center"><img src=".github/mobile.png?raw=true"/></p>
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+# :pushpin: Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [Features](#link-features)
+* [Used Techs](#rocket-used-techs)
+* [Installation](#construction_worker-installation)
+* [Getting Started](#checkered_flag-getting-started)
+* [Found a bug? Missing a specific feature?](#hammer-issues)
+* [License](#book-license)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+# :link: Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* 📝 Get weather card and other infos.
+* 🔍 Search for new cities around the world.
+* 💾 Control city cards to browser storage.
 
-### `yarn build`
+# :rocket: Used Techs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* <a href="https://www.typescriptlang.org/">Typescript</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* <a href="https://reactjs.org/">ReactJS</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# :construction_worker: Installation
 
-### `yarn eject`
+**You need to install [Node.js](https://nodejs.org/en/download/). In order to clone the project via HTTPS, run this command:**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```git clone https://github.com/GustavoDevOm/weather-app.git```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```git clone git@github.com:GustavoDevOm/weather-app.git```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Install dependencies**
 
-## Learn More
+```yarn``` or ```npm install```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# :checkered_flag: Getting Started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Run the following command in order to start the application in a development environment:
+
+**Initialization**
+
+```yarn start``` or ```npm start```
+
+# :hammer: Issues
+
+Feel free to **file a new issue** with a respective title and description on the [Weather-app](https://github.com/GustavoDevOm/weather-app/issues) repository. If you already found a solution to your problem, **I would appreciate to review your pull request**!
+
+# :book: License
+
+Released in 2021.
+This project is under the [MIT license](LICENSE.md).
+
+---
+
+<h4 align="center">
+  Made with ❤️ by Gustavo Matei (https://github.com/GustavoDevOm) 🚀
+</h4>
